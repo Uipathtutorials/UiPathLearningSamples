@@ -1,0 +1,13 @@
+﻿{
+  "Id": "4PixaBogzUmJqwp8IcolVg",
+  "Reference": "eRsdg5B_gkmA27BZZCcO7w/4PixaBogzUmJqwp8IcolVg",
+  "ParentRef": "eRsdg5B_gkmA27BZZCcO7w/jIY9sE0wnUCll7VxoNcGJg",
+  "Name": "7",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-05-02T10:51:48.56516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-02T10:51:48.56516Z"
+}

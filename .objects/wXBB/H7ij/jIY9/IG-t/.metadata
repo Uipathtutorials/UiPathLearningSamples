@@ -1,0 +1,13 @@
+﻿{
+  "Id": "IG-trWVDF0-HiqM5jH775A",
+  "Reference": "eRsdg5B_gkmA27BZZCcO7w/IG-trWVDF0-HiqM5jH775A",
+  "ParentRef": "eRsdg5B_gkmA27BZZCcO7w/jIY9sE0wnUCll7VxoNcGJg",
+  "Name": "",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-05-02T10:51:48.6331557Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-05-02T10:51:48.6331557Z"
+}

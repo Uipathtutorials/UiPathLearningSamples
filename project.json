@@ -1,0 +1,66 @@
+{
+  "name": "BlankProcess",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Office.Interop.Excel": "[15.0.4795.1000]",
+    "UiPath.DataService.Activities": "[21.1.2]",
+    "UiPath.Excel.Activities": "[2.10.4]",
+    "UiPath.Mail.Activities": "[1.10.4]",
+    "UiPath.System.Activities": "[21.4.0]",
+    "UiPath.UIAutomation.Activities": "[21.4.3]",
+    "UiPath.WebAPI.Activities": "[1.7.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "tenantName": "uipathtutorials",
+      "namespace": "Customer",
+      "uniqueReference": "MhyAOLfjQVEkqtCP7vBl3t/RtPNBozjAUiCJVDQN2HI="
+    }
+  ],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.6.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "c13d988c-6562-46bd-8ea5-7d0c2c7f2496",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

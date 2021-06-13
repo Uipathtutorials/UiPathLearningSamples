@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="_64KbVUuv0SGdOFjTLzohA" DesignTimeRectangle="367, 565, 116, 64" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='equalButton' cls='Button' name='Equals' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='StandardOperators' cls='NamedContainerAutomationPeer' name='Standard operators' /&gt;&lt;uia automationid='equalButton' cls='Button' name='Equals' role='button' check:fulltext='' /&gt;" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Calculator' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="56, 38, 82, 27" ElementType="Text" FriendlyName="'Standard'" FullSelectorArgument="&lt;uia automationid='Header' cls='TextBlock' name='Standard Calculator mode' /&gt;" FuzzySelectorArgument="&lt;uia automationid='Header' cls='TextBlock' name='Standard Calculator mode' role='text' check:fulltext='Standard' /&gt;" SearchSteps="Selector, FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">13NCIhtHghUuy_DMIAOly3Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0WiDioR3j10yBTBl4EM6hcg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="42a689f89e3fcaf850ab0e75b7ead1b0.png" xmlns="">0SjWT_4XwUE-eWFaSXvf1Lw</imageRef>
+</TargetAnchorable>
